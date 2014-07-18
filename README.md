@@ -3,7 +3,7 @@ portland_food_and_drink
 
 Github Exercise:
 
-Jason, who is something of an epicurian, its interested in local eateries and would find some reviews from bootcamp participants on their local dining experiences helpful in guiding his lunch choice for today.  He has set up a github repository and would like you to submit a review of the place you had lunch yesterday in the form of a pull request.
+Jason, who is something of an epicurian, its interested in local eateries and would find some restaurant reviews from bootcamp participants helpful in guiding his lunch choice for today.  He has set up a github repository and would like you to submit a review of the place you had lunch yesterday in the form of a pull request.
 
 1) Go to https://github.com/JasonJWilliamsNY/portland_food_and_drink
 2) Fork
